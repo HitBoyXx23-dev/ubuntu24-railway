@@ -31,8 +31,8 @@ Ubuntu terminal through ttyd.
 ## Terminal login
 
 ```text
-Username: ubuntu
-Password: ubuntu
+Username: user
+Password: 1234
 ```
 
 ## Environment
