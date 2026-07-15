@@ -1,4 +1,4 @@
-# Ubuntu 24.04 for Railway also this was not tested it doesnt let me test because of trial or smth
+# Ubuntu 24.04 for Railway
 
 ## Deploy
 
